@@ -27,7 +27,7 @@ There is a workshop you can follow to build the app:
 There's a [presentation](https://speakerdeck.com/meteatamel/pic-a-daily-serverless-workshop) that accompanies the workshop.
 
 <a href="https://speakerdeck.com/meteatamel/pic-a-daily-serverless-workshop">
-    <img alt="Pic-a-Daily Serverless Workshop" src="pic-a-daily-presentation.png" width="50%" height="50%">
+    <img alt="Demo Cloud Day 1 - Serverless" src="pic-a-daily-presentation.png" width="50%" height="50%">
 </a>
 
 ## Architecture - Choreographed (event-driven)
